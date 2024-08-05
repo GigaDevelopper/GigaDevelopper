@@ -6,9 +6,9 @@
 - **Desktop Applications**
 
 ## Current Work
-- **Company:** WatchDog
-- **Focus:** AI in the catering industry
-- **Research Areas:** Store analysis, security monitoring
+- **Company:** Oson
+- **Focus:** AI in Finance structure
+- **Research Areas:** Payment service
 
 ## Projects
 
